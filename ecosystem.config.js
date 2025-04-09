@@ -6,7 +6,7 @@ module.exports = {
     },
     {
       name: "web",
-      script: "cd apps/web && next start",
+      script: "cd apps/web && next start --port 7000",
     },
   ],
 };
