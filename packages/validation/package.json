@@ -1,0 +1,17 @@
+{
+  "name": "@egen/validation",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "~5.7.2"
+  },
+  "dependencies": {
+    "zod": "^3.24.2"
+  }
+}

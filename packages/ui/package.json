@@ -1,5 +1,5 @@
 {
-  "name": "@repo/ui",
+  "name": "@egen/ui",
   "version": "0.0.0",
   "private": true,
   "exports": {
@@ -21,7 +21,11 @@
     "typescript": "5.8.2"
   },
   "dependencies": {
+    "@react-three/drei": "^10.0.6",
+    "@react-three/fiber": "^9.1.2",
+    "@types/three": "^0.175.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "three": "^0.175.0"
   }
 }

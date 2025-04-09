@@ -1,0 +1,17 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore lock files
+*.lock
+
+# Ignore build artifacts
+build/
+
+# Ignore Git files
+.git/
+.gitignore
+
+tmp/
